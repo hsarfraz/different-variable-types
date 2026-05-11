@@ -1,0 +1,1 @@
+# different-variable-types
