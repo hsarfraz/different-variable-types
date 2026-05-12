@@ -10,8 +10,8 @@ Just noting down the different variable types since this concept is crucial in d
 
 ## Numerical Variables
 
-## Continuous Numerical
+### Continuous Numerical
 
-## Discrete Numerical
+### Discrete Numerical
 
 Population: You can take averages, add, or subtract population so it is a numerical variable. What makes population numerical discrete is that it will always be a whole number and can never be represented as a decimal value. 
